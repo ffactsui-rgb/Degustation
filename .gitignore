@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+local.properties
+*.iml
+**/build/
+work/
+output/
+node_modules/
+*.jks
+*.keystore
+*.idsig
+signing.properties
+.DS_Store
+__pycache__/
+*.pyc
